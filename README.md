@@ -31,4 +31,4 @@ The notebook simulates academic data (students, majors, CGPA, etc.) to demonstra
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/cis_9660_pandas_practice.git
+   git clone https://github.com/dattaBus-anls/cis_9660_pandas_practice.git
